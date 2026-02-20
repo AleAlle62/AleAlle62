@@ -5,7 +5,7 @@ Full Stack Web developer
 ------------------------
 
 * 🌍  I'm based in Lucca, Italy
-* ✉️  You can contact me at [allegrini.alessio00@gmail.com](mailto:allegrini.alessio00@gmail.com)
+* ✉️  You can contact me at [allegrini.alessio00@gmail.com](mailto:basketallegrini@gmail.com)
 * 🧠  I'm learning ThreeJs, Expo, React and Astro
 
 
