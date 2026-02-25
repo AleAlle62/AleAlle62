@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alessio Allegrini
 =========================================================================================================================================
 
-Full Stack Web developer
-------------------------
+Software Developer ------------------------
 
 * 🌍  I'm based in Lucca, Italy
 * ✉️  You can contact me at [allegrini.alessio00@gmail.com](mailto:basketallegrini@gmail.com)
-* 🧠  I'm learning ThreeJs, Expo, React and Astro
+* 🧠  I'm learning ThreeJs, Expo, React Native and Astro
 
 
 
