@@ -4,7 +4,7 @@ Hi, My name is Alessio Allegrini ![](https://user-images.githubusercontent.com/1
 Software Developer 
 
 * 🌍  I'm based in Lucca, Italy
-* ✉️  You can contact me at [allegrini.alessio00@gmail.com](mailto:basketallegrini@gmail.com)
+* ✉️  You can contact me at [basketallegrini@gmail.com](mailto:basketallegrini@gmail.com)
 * 🧠  I'm learning ThreeJs, Expo, React Native and Astro
 
 
