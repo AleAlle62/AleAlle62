@@ -67,8 +67,3 @@
 
 ---
 
-<div align="center">
-
-*"Il codice è scritto una volta, letto molte volte."*
-
-</div>
