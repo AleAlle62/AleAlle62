@@ -20,11 +20,6 @@
 
 <br>
 
-### Chi sono
-
-Sviluppatore full-stack appassionato di nuove tecnologie.
-<!-- ✏️ Se vuoi aggiungere altro (settore, progetti su cui lavori, ecc.) modifica pure questa riga -->
-
 </td>
 <td width="50%" valign="top">
 
