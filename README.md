@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ```
    _   _       _   _ _      __ ___ 
@@ -11,8 +9,25 @@
 
 ### Sviluppatore Full-Stack
 
-</td>
-<td width="50%" valign="top" rowspan="2">
+</div>
+
+---
+
+- 📷 **Instagram:** [@alessioallegrini_](https://instagram.com/alessioallegrini_)
+- 💼 **LinkedIn:** [Alessio Allegrini](https://www.linkedin.com/in/alessio-allegrini00/)
+- ✉️ **Email:** [basketallegrini@gmail.com](mailto:basketallegrini@gmail.com)
+- 🌐 **Portfolio:** [alessioallegrini.it](https://alessioallegrini.it)
+
+---
+
+## Chi sono
+
+Sviluppatore full-stack appassionato di nuove tecnologie.
+<!-- ✏️ Se vuoi aggiungere altro (settore, progetti su cui lavori, ecc.) modifica pure questa riga -->
+
+---
+
+## Stack tecnologico
 
 **Backend**
 
@@ -39,10 +54,8 @@
 **Mobile / App**
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-
-**CMS**
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 
 **Strumenti & DB**
 
@@ -51,20 +64,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="bottom">
-
-## Chi sono
-
-Sviluppatore full-stack appassionato di nuove tecnologie.
-<!-- ✏️ Se vuoi aggiungere altro (settore, progetti su cui lavori, ecc.) modifica pure questa riga -->
-
-</td>
-</tr>
-</table>
 
 ---
 
