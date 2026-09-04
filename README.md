@@ -15,7 +15,7 @@
 
 - 📷 **Instagram:** [@alessioallegrini_](https://instagram.com/alessioallegrini_)
 - 💼 **LinkedIn:** [Alessio Allegrini](https://www.linkedin.com/in/alessio-allegrini00/)
-- ✉️ **Email:** [basketallegrini@gmail.com](mailto:basketallegrini@gmail.com)
+- ✉️ **Email:** [basketallegrini@gmail.com](mailto:allegrini.alessio00@gmail.com)
 - 🌐 **Portfolio:** [alessioallegrini.it](https://alessioallegrini.it)
 
 <br>
